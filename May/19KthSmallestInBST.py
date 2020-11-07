@@ -1,3 +1,17 @@
+'''
+Given a binary search tree, write a function kthSmallest to find the kth smallest element in it.
+Example 1:
+
+Input: root = [3,1,4,null,2], k = 1
+   3
+  / \
+ 1   4
+  \
+   2
+Output: 1
+'''
+
+# Solution::::::::::::::::::::::
 # Definition for a binary tree node.
 # class TreeNode:
 #     def __init__(self, val=0, left=None, right=None):
